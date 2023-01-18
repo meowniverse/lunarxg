@@ -1,4 +1,4 @@
-# lunarix
-Debian + KDE. For gamers, for everyone
+# Lunarix
+Ubuntu 22.04 + KDE. For gamers, for everyone
 
-# We are migrating
+# We are migrating to Ubuntu
