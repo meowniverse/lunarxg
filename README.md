@@ -5,7 +5,7 @@ Built with Cubic
 
 This repository only serve as an entrypoint to the OS, as well as hosting deb packages for the installer.
 
-
+Download: [our blog](https://lunarxg.blogspot.com/)
 
 # Planned features
 ## Included softwares
