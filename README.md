@@ -7,6 +7,8 @@ This repository only serve as an entrypoint to the OS, as well as hosting deb pa
 
 Download: [our blog](https://lunarxg.blogspot.com/)
 
+Feature list: [Sheets](https://docs.google.com/spreadsheets/d/1wKk-0dvnGB0Ja7vv5-luP0XeHk3fN2zPTNZ8jDKoaEc/edit?usp=sharing)
+
 # Planned features
 ## Included softwares
 - KDE
