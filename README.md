@@ -3,6 +3,8 @@ Another Linux distro for gaming, based on Ubuntu LTS/KDE neon (also LTS).
 
 Built with Cubic
 
+This repository only serve as an entrypoint to the OS, as well as hosting deb packages for the installer.
+
 
 
 # Planned features
