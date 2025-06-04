@@ -1,3 +1,6 @@
+# We are moving to Worktree.ca, but some of our repository wuold stay here to use GitHub Actions. This repo will be in sync with the Worktree mirror.
+
+
 # LunarXG
 Another Linux distro for gaming, based on Ubuntu LTS/KDE neon (also LTS).
 
