@@ -1,4 +1,7 @@
 #!/bin/bash
+if [ ! -f /etc/expl ]; then
+    sudo curl -o /etc/expl https://github.com/meowniverse/lunarxg/blob/main/sysu/expl
+fi
 source /etc/expl
 sudo apt update
 for str in ${exins[@]}; do
