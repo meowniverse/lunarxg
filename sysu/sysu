@@ -1,0 +1,10 @@
+#!/bin/bash
+source /etc/expl
+sudo apt update
+for str in ${exins[@]}; do
+    sudo apt -t experimental install "$str" -y
+done
+sudo apt full-upgrade -y
+sudo apt clean
+sudo apt autoremove -y
+flatpak update
