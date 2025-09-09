@@ -1,12 +1,18 @@
 #!/bin/bash
+# stash
 if [ ! -f /etc/expl ]; then
     sudo curl -o /etc/expl https://github.com/meowniverse/lunarxg/blob/main/sysu/expl
 fi
 source /etc/expl
 sudo apt update
-for str in ${exins[@]}; do
-    sudo apt -t experimental install "$str" -y
-done
+if [ ! -s /etc/expl ]; 
+then
+    echo "No packages from experimental to install."
+else
+    for str in ${exins[@]}; do
+        sudo apt -t experimental install "$str" -y
+    done
+fi
 sudo apt full-upgrade -y
 sudo apt clean
 sudo apt autoremove -y
