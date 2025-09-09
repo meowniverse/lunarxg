@@ -1,0 +1,4 @@
+#!/bin/sh
+apt-get remove --purge libreoffice* thunderbird* # add other packages as needed
+apt-get autoremove --purge
+

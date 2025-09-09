@@ -1,0 +1,9 @@
+PRETTY_NAME="LunarXG Rolling Tidal"
+NAME="LunarXG"
+ID=lunarxg
+VERSION="Rolling Tidal"
+VERSION_CODENAME=sid
+VERSION_ID="unstable"
+HOME_URL="https://worktree.ca/meowniverse/LunarXG"
+SUPPORT_URL="https://worktree.ca/meowniverse/LunarXG/issues"
+BUG_REPORT_URL="https://worktree.ca/meowniverse/LunarXG/issues"
