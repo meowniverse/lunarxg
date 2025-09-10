@@ -4,10 +4,6 @@
 # LunarXG
 Another Linux distro for gaming, based on Debian unstable (sid).
 
-Built with Cubic
-
-This repository only serve as an entrypoint to the OS, as well as hosting deb packages for the installer.
-
 Download: [our blog](https://lunarxg.blogspot.com/)
 
 Feature list: [Sheets](https://docs.google.com/spreadsheets/d/1wKk-0dvnGB0Ja7vv5-luP0XeHk3fN2zPTNZ8jDKoaEc/edit?usp=sharing)
@@ -18,7 +14,6 @@ Feature list: [Sheets](https://docs.google.com/spreadsheets/d/1wKk-0dvnGB0Ja7vv5
 - Steam, Lutris, Wine, Winetricks and so on
 - Firefox ESR
 - MESA driver for AMD and Intel GPUs
-- ntsync
 - Pretty much everything** [Bazzite](https://github.com/ublue-os/bazzite) has to offer. Of course it's not always complete, but we will try our best.
 
 
